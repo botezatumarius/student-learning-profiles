@@ -1,6 +1,6 @@
 # Clustering Student Learning Profiles
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/botezatumarius/student-learning-profiles/blob/main/student_learning_profiles.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/botezatumarius/student-learning-profiles/blob/main/student_learning_profiles_Marius_Botezatu.ipynb)
 
 Unsupervised analysis of how students used an online ML learning tool and how they performed on the exam (Machine Learning Techniques 43504, University of Alicante, 2026–2027).
 
@@ -17,7 +17,7 @@ The notebook clusters the same students twice, once on **tool use** and once on 
 
 | Path | Description |
 |---|---|
-| `student_learning_profiles.ipynb` | Self-contained report: code, outputs and written analysis |
+| `student_learning_profiles_Marius_Botezatu.ipynb` | Self-contained report: code, outputs and written analysis |
 | `data/kmai-tau.csv` | Original dataset |
 
 ## Running
