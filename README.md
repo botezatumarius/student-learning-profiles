@@ -1,5 +1,7 @@
 # Clustering Student Learning Profiles
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/botezatumarius/student-learning-profiles/blob/main/student_learning_profiles.ipynb)
+
 Unsupervised analysis of how students used an online ML learning tool and how they performed on the exam (Machine Learning Techniques 43504, University of Alicante, 2026–2027).
 
 The notebook clusters the same students twice, once on **tool use** and once on **exam performance**, and then tests whether the two partitions agree beyond chance.
@@ -20,4 +22,4 @@ The notebook clusters the same students twice, once on **tool use** and once on 
 
 ## Running
 
-Open the notebook in Google Colab and run all cells. Colab already has every dependency (pandas, scikit-learn, seaborn, scipy).
+Click the badge above and run all cells. The dataset loads directly from this repository, and Colab already has every dependency (pandas, scikit-learn, seaborn, scipy).
